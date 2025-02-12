@@ -10,4 +10,4 @@ A simple server blackout script for your server!
 [ox_lib](https://github.com/overextended/ox_lib)
 
 # Preview
-https://drive.google.com/file/d/1A3ptr-bpyB_I6YGvztsGPB69k0dLhQwy/preview
+
